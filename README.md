@@ -80,3 +80,19 @@ Ce projet est un projet de portfolio / apprentissage. La publication du code ne 
 ## Auteur
 
 **Alae Lahlou** — [GitHub](https://github.com/alaelahlou)
+
+## 📸 Screenshots
+
+![Screenshot 1](photo1.png)
+
+![Screenshot 2](photo2.png)
+
+![Screenshot 3](photo3.png)
+
+![Screenshot 4](photo4.png)
+
+![Screenshot 5](photo5.png)
+
+![Screenshot 6](photo6.png)
+
+![Screenshot 7](photo7.png)
